@@ -1,1 +1,1 @@
-# att5by5-Livraria
+Atividade referente ao Projeto da Livraria
