@@ -1,0 +1,7 @@
+C:\Users\viesi\source\repos\Att5by5Livraria\Att5by5Livraria\bin\Debug\Att5by5Livraria.exe.config
+C:\Users\viesi\source\repos\Att5by5Livraria\Att5by5Livraria\bin\Debug\Att5by5Livraria.exe
+C:\Users\viesi\source\repos\Att5by5Livraria\Att5by5Livraria\bin\Debug\Att5by5Livraria.pdb
+C:\Users\viesi\source\repos\Att5by5Livraria\Att5by5Livraria\obj\Debug\Att5by5Livraria.csprojAssemblyReference.cache
+C:\Users\viesi\source\repos\Att5by5Livraria\Att5by5Livraria\obj\Debug\Att5by5Livraria.csproj.CoreCompileInputs.cache
+C:\Users\viesi\source\repos\Att5by5Livraria\Att5by5Livraria\obj\Debug\Att5by5Livraria.exe
+C:\Users\viesi\source\repos\Att5by5Livraria\Att5by5Livraria\obj\Debug\Att5by5Livraria.pdb
